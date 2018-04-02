@@ -1,4 +1,4 @@
-Given a 2D board and a Set of words from the dictionary, I would like to find all words in the board.
+Given a 2D board and a Set of words from the dictionary, find all valid words(words present in the dictionary) in the board.
 
 Each word must be constructed from letters of sequentially adjacent cell, where "adjacent" cells are those horizontally or vertically or diagonally neighboring. The same letter cell may not be used more than once in a word.
 

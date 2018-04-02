@@ -25,3 +25,16 @@ Output :
 
 
 Classes : LegoBlocks.java, TestLegoBlocks.java
+
+
+One can run the LegoBlocks.java directly by changing the various input values in the file
+Input : int[] blocks, defining the width of the blocks. It can be any number of blocks and any combination of widths
+e.g {1, 2, 3, 4} or {2, 4, 6, 8} or {2, 5, 8, 9, 6, 5, 4} or {1} or {6}
+
+int h = 6, w = 4; (height and width of the wall). Those can be any numbers, under 5000.
+
+
+
+or
+
+Use the TestLegoBlocks.java in which there are various combinations of the above input.
